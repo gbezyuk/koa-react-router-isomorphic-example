@@ -15,7 +15,7 @@ babel-node src/server.js
 ```
 
 ## Features
-* Three routes: index, about, 404
+* Four routes: index, about, contacts, 404
 * Server-side rendering using Koa
 * Asset bundling using WebPack
 * ES6 with Babel
