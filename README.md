@@ -22,3 +22,4 @@ babel-node src/server.js
 
 ## Known Issues
 * Home link is always active. IndexLink usage is causing application failure, see [Navigation.js](src/components/elements/Navigation.js)
+* The app is not actually isomorphic at the moment. Surprisingly, it has no client-side code running.
